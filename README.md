@@ -1,4 +1,5 @@
 # YLTransitionAnimation
 ~~~~
-![Alt text](https://github.com/itroad-l/YLTransitionAnimation/raw/master/Screenshots/YLTransitionSwiftDemo.gif)
+
  
+![gif](http://7xs3pp.com1.z0.glb.clouddn.com/CATransitionSwiftDemo.gif "gif")
