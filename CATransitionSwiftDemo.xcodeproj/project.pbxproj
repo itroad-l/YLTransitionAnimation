@@ -494,6 +494,7 @@
 				389D876D1D47DD3500A176EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		389D876E1D47DD3500A176EA /* Build configuration list for PBXNativeTarget "CATransitionSwiftDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +503,7 @@
 				389D87701D47DD3500A176EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		389D87711D47DD3500A176EA /* Build configuration list for PBXNativeTarget "CATransitionSwiftDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +512,7 @@
 				389D87731D47DD3500A176EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
